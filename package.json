@@ -1,0 +1,30 @@
+{
+  "name": "keycloak-connect-graphql-directives",
+  "version": "1.0.0",
+  "description": "Keycloak-connect-graphql directives to support mercurius ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajagopalx/keycloak-connect-graphql-directives.git"
+  },
+  "keywords": [
+    "keycloak",
+    "graphql",
+    "connect",
+    "mercurius",
+    "fastify"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajagopalx/keycloak-connect-graphql-directives/issues"
+  },
+  "homepage": "https://github.com/rajagopalx/keycloak-connect-graphql-directives#readme",
+  "dependencies": {
+    "@graphql-tools/utils": "7.5.0",
+    "keycloak-connect-graphql": "0.7.0"
+  }
+}
